@@ -31,7 +31,7 @@
 
 ## 📚 Professional Development
 
-- **School 21, Sber**: Python Developer (2025)
+- **School 21, Sber**: DevOps, C/C++ developer (2025)
 - **SkillFactory**: Python Developer (2024)
 
 ---
