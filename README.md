@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Mikhail Bakushin
+# 👋 Hello there, I'm Mikhail Bakushin))
 
-🚀 **Python Backend Developer & DevOps Specialist**  
+🚀 **Python Backend Developer & DevOps Engineer**  
 🏠 **Saint Petersburg**  
 ✉️ [bakushin.mik@gmail.com](mailto:bakushin.mik@gmail.com)  
 📞 +7-902-775-76-13  
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I am a dedicated **Python Backend Developer** with expertise in **DevOps**. My focus is on implementing **best practices** to deliver high-quality, efficient systems. I believe in creating robust backends that not only meet requirements but also foster collaboration and streamline workflows. Let’s work together to innovate and elevate our projects!
+I am a dedicated **Python Backend Developer** and **DevOps Engineer** focused on delivering scalable, high-performance solutions. My approach combines technical expertise with a commitment to **best practices**, ensuring reliability and efficiency in every project. I thrive in collaborative environments, where innovative thinking and teamwork lead to exceptional results. Let’s create impactful software together!
 
 ---
 
@@ -19,10 +19,9 @@ I am a dedicated **Python Backend Developer** with expertise in **DevOps**. My f
 ### 💻 Development Skills
 - **Languages & Frameworks**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)  
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)  
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)   
   ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-FF8C00?style=for-the-badge&logo=djangorestframework&logoColor=ffffff)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff) 
 
 - **Databases**:  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -47,12 +46,5 @@ I am a dedicated **Python Backend Developer** with expertise in **DevOps**. My f
 - ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)  
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
 
-## 🌐 Languages
-
-- **English**: B2 (Upper Intermediate)
-
----
-
-✨ **I am excited to connect with teams aiming for excellence. Together, we can create impactful solutions!**
+✨ **Let's connect and discuss how we can collaborate on your next project!**
